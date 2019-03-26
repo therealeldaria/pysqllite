@@ -1,0 +1,2 @@
+# pysqllite
+Learning pysqllite
